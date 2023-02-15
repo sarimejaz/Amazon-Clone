@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  cursor: default;
+  overflow-x: hidden;
+}
+
+.amazonLogo{
+  width: 4rem;
+  height: 2rem;
+}
+
+
+.inputsize{
+  width: 70%;
+}
+
+.shittyNav{
+  margin-bottom: 3.5rem;
+}
+
+.navLinks{
+  text-decoration: none;
+  color: white;
+  margin:0 0.5rem;
+}
+
+.navLinks:hover{
+  text-decoration: none;
+  color: rgb(131, 131, 131);
+}
+
+
+.product{
+  margin-top: -13vw;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.Stars{
+  display: flex;
+  justify-content: center;
+}
+
+.signinNav{
+  background-color:#141920;
+}
+
+.signinNav ul{
+  list-style: none;
+}
+
